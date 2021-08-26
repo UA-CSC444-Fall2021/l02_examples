@@ -1,0 +1,19 @@
+p {
+  font-size: 20px;
+  background-color: red;
+}
+
+#first {
+  color: white;
+  background-color: blue;
+}
+
+.even {
+  border: solid black 10px;
+}
+
+circle {
+  fill: red;
+  stroke: purple;
+  stroke-width: 20;
+}
